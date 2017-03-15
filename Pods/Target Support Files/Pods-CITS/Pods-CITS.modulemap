@@ -1,6 +1,0 @@
-framework module Pods_CITS {
-  umbrella header "Pods-CITS-umbrella.h"
-
-  export *
-  module * { export * }
-}
