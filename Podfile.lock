@@ -14,13 +14,16 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
+  - CPDownLoaderPublic (1.0.0)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.1.0)
+  - CPDownLoaderPublic (~> 1.0.0)
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CPDownLoaderPublic: bae96c44ded3b8204fd4b7f556a8ddb4e2259d0d
 
-PODFILE CHECKSUM: ccf4dca279d9990612692cdd3b3d8718c1f2a256
+PODFILE CHECKSUM: 62bed20099e474d9adeea95b5c955359cfe5bed8
 
 COCOAPODS: 1.0.1
