@@ -1,0 +1,27 @@
+{
+  "name": "CPDownLoaderLocal",
+  "version": "1.0.0",
+  "summary": "CPDownLoaderLocal Is A Downloader Tool.",
+  "description": "CPDownLoaderLocal Is A Most NB Downloader Tool,Trust Me.",
+  "homepage": "http://EXAMPLE/CPDownLoaderLocal",
+  "license": "Apache License, Version 2.0",
+  "authors": {
+    "独一先生": "admin@caopei.cn"
+  },
+  "source": {
+    "git": "",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "requires_arc": true,
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

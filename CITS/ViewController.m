@@ -7,6 +7,9 @@
 //
 
 #import "ViewController.h"
+#import <CPDownLoaderLocal/CPFileTool.h>
+#import <CPDownLoaderPublic/CPFileTool.h>
+#import <DownLoaderPrivateCP/CPFileTool.h>
 
 @interface ViewController ()
 

@@ -14,16 +14,26 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
+  - CPDownLoaderLocal (1.0.0)
   - CPDownLoaderPublic (1.0.0)
+  - DownLoaderPrivateCP (1.0.0)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.1.0)
-  - CPDownLoaderPublic (~> 1.0.0)
+  - CPDownLoaderLocal (from `../../Lib/CPLocalLib/CPDownLoaderLocal`)
+  - CPDownLoaderPublic
+  - DownLoaderPrivateCP
+
+EXTERNAL SOURCES:
+  CPDownLoaderLocal:
+    :path: ../../Lib/CPLocalLib/CPDownLoaderLocal
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CPDownLoaderLocal: ed52ee3f947ee33a080ae4ca89938a8c0f2119b3
   CPDownLoaderPublic: bae96c44ded3b8204fd4b7f556a8ddb4e2259d0d
+  DownLoaderPrivateCP: f1a7418146598c67370ddef4dd7003b4ccfd90cb
 
-PODFILE CHECKSUM: 62bed20099e474d9adeea95b5c955359cfe5bed8
+PODFILE CHECKSUM: c4827837f6e82e73904adb6fee3ea8171072332c
 
 COCOAPODS: 1.0.1

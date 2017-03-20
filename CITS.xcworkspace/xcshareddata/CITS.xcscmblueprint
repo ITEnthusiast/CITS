@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "14644BF4594D97E8F5537B3B5032387C6EE58C00",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "06E4204E85702F489D962639393951ED435E20B8" : 9223372036854775807,
+    "14644BF4594D97E8F5537B3B5032387C6EE58C00" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F5564E7C-B6AB-4BB3-BB1A-9075FAD393D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "06E4204E85702F489D962639393951ED435E20B8" : "..\/Lib\/CPLocalLib\/CPDownLoaderLocal",
+    "14644BF4594D97E8F5537B3B5032387C6EE58C00" : "CITS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CITS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CITS.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ITEnthusiast\/CPDownLoaderLocal",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06E4204E85702F489D962639393951ED435E20B8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ITEnthusiast\/CITS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "14644BF4594D97E8F5537B3B5032387C6EE58C00"
+    }
+  ]
+}
