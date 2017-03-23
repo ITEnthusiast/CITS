@@ -1,39 +1,14 @@
 PODS:
-  - AFNetworking (3.1.0):
-    - AFNetworking/NSURLSession (= 3.1.0)
-    - AFNetworking/Reachability (= 3.1.0)
-    - AFNetworking/Security (= 3.1.0)
-    - AFNetworking/Serialization (= 3.1.0)
-    - AFNetworking/UIKit (= 3.1.0)
-  - AFNetworking/NSURLSession (3.1.0):
-    - AFNetworking/Reachability
-    - AFNetworking/Security
-    - AFNetworking/Serialization
-  - AFNetworking/Reachability (3.1.0)
-  - AFNetworking/Security (3.1.0)
-  - AFNetworking/Serialization (3.1.0)
-  - AFNetworking/UIKit (3.1.0):
-    - AFNetworking/NSURLSession
-  - CPDownLoaderLocal (1.0.0)
-  - CPDownLoaderPublic (1.0.0)
-  - DownLoaderPrivateCP (1.0.0)
+  - CPTools/Barrage (0.2.7):
+    - CPTools/UIKit
+  - CPTools/UIKit (0.2.7)
 
 DEPENDENCIES:
-  - AFNetworking (~> 3.1.0)
-  - CPDownLoaderLocal (from `../../Lib/CPLocalLib/CPDownLoaderLocal`)
-  - CPDownLoaderPublic
-  - DownLoaderPrivateCP
-
-EXTERNAL SOURCES:
-  CPDownLoaderLocal:
-    :path: ../../Lib/CPLocalLib/CPDownLoaderLocal
+  - CPTools/Barrage
 
 SPEC CHECKSUMS:
-  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
-  CPDownLoaderLocal: ed52ee3f947ee33a080ae4ca89938a8c0f2119b3
-  CPDownLoaderPublic: bae96c44ded3b8204fd4b7f556a8ddb4e2259d0d
-  DownLoaderPrivateCP: f1a7418146598c67370ddef4dd7003b4ccfd90cb
+  CPTools: 948bb637ab24cbf09a6590de57b61000da5c36e6
 
-PODFILE CHECKSUM: c4827837f6e82e73904adb6fee3ea8171072332c
+PODFILE CHECKSUM: 21874a3c8f5bdfd12b52483f0d56a126fb5fe4c9
 
 COCOAPODS: 1.0.1

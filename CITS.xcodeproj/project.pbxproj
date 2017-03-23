@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B319D0CA1E82AD2600F97876 /* CPBarrageModel.m in Sources */ = {isa = PBXBuildFile; fileRef = B319D0C91E82AD2600F97876 /* CPBarrageModel.m */; };
 		B3C8158B1E7807DF00EE88D3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B3C8158A1E7807DF00EE88D3 /* main.m */; };
 		B3C8158E1E7807DF00EE88D3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B3C8158D1E7807DF00EE88D3 /* AppDelegate.m */; };
 		B3C815911E7807DF00EE88D3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B3C815901E7807DF00EE88D3 /* ViewController.m */; };
@@ -20,6 +21,8 @@
 		2DF31A74F41378CA2623A60C /* Pods_CITS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CITS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C49C6F79A0330E3A8E4D890 /* Pods-CITS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CITS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CITS/Pods-CITS.debug.xcconfig"; sourceTree = "<group>"; };
 		8C1F50452D7DFD37249ADB83 /* Pods-CITS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CITS.release.xcconfig"; path = "Pods/Target Support Files/Pods-CITS/Pods-CITS.release.xcconfig"; sourceTree = "<group>"; };
+		B319D0C81E82AD2600F97876 /* CPBarrageModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPBarrageModel.h; sourceTree = "<group>"; };
+		B319D0C91E82AD2600F97876 /* CPBarrageModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPBarrageModel.m; sourceTree = "<group>"; };
 		B3C815861E7807DF00EE88D3 /* CITS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CITS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3C8158A1E7807DF00EE88D3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B3C8158C1E7807DF00EE88D3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -78,6 +81,8 @@
 				B3C8158D1E7807DF00EE88D3 /* AppDelegate.m */,
 				B3C8158F1E7807DF00EE88D3 /* ViewController.h */,
 				B3C815901E7807DF00EE88D3 /* ViewController.m */,
+				B319D0C81E82AD2600F97876 /* CPBarrageModel.h */,
+				B319D0C91E82AD2600F97876 /* CPBarrageModel.m */,
 				B3C815921E7807DF00EE88D3 /* Main.storyboard */,
 				B3C815951E7807DF00EE88D3 /* Assets.xcassets */,
 				B3C815971E7807DF00EE88D3 /* LaunchScreen.storyboard */,
@@ -228,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B3C815911E7807DF00EE88D3 /* ViewController.m in Sources */,
+				B319D0CA1E82AD2600F97876 /* CPBarrageModel.m in Sources */,
 				B3C8158E1E7807DF00EE88D3 /* AppDelegate.m in Sources */,
 				B3C8158B1E7807DF00EE88D3 /* main.m in Sources */,
 			);

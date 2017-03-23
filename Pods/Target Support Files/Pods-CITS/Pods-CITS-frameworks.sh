@@ -84,14 +84,8 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_framework "$BUILT_PRODUCTS_DIR/AFNetworking/AFNetworking.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/CPDownLoaderLocal/CPDownLoaderLocal.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/CPDownLoaderPublic/CPDownLoaderPublic.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/DownLoaderPrivateCP/DownLoaderPrivateCP.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/CPTools/CPTools.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_framework "$BUILT_PRODUCTS_DIR/AFNetworking/AFNetworking.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/CPDownLoaderLocal/CPDownLoaderLocal.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/CPDownLoaderPublic/CPDownLoaderPublic.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/DownLoaderPrivateCP/DownLoaderPrivateCP.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/CPTools/CPTools.framework"
 fi

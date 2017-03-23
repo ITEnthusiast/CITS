@@ -1,6 +1,0 @@
-framework module CPDownLoaderLocal {
-  umbrella header "CPDownLoaderLocal-umbrella.h"
-
-  export *
-  module * { export * }
-}
